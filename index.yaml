@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   springboot-example-project:
   - apiVersion: v1
+    appVersion: 0.4.1
+    created: "2022-02-18T16:48:07.150219769Z"
+    description: A Helm chart for Kubernetes
+    digest: 9fc5bbf1bf797cd59f231454c9d7e871028c6def2f699594a1717baa006e3a9e
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: springboot-example-project
+    urls:
+    - springboot-example-project-0.4.1.tgz
+    version: 0.4.1
+  - apiVersion: v1
     appVersion: 0.4.0
-    created: "2022-02-18T16:45:14.627458039Z"
+    created: "2022-02-18T16:48:07.143016173Z"
     description: A Helm chart for Kubernetes
     digest: 999f7be56d01ea482f6e3c93b81b3738226ac4cb7e65f3e87c47916dc0026bab
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -13,7 +23,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: 0.3.3
-    created: "2022-02-18T16:45:14.626281081Z"
+    created: "2022-02-18T16:48:07.141456363Z"
     description: A Helm chart for Kubernetes
     digest: 641564dfb79df5ed604e33007f6d72429a63366ab1e631c83cbb7406ce3ab6e9
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -23,7 +33,7 @@ entries:
     version: 0.3.3
   - apiVersion: v1
     appVersion: 0.3.0
-    created: "2022-02-18T16:45:14.62471175Z"
+    created: "2022-02-18T16:48:07.139687894Z"
     description: A Helm chart for Kubernetes
     digest: fcf29d3a9db827e832abb921dbb4c4648bdf0a495f004cda92b75a8a3e641b9f
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -33,7 +43,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.2.0
-    created: "2022-02-18T16:45:14.623473951Z"
+    created: "2022-02-18T16:48:07.138294984Z"
     description: A Helm chart for Kubernetes
     digest: 3fe46e548d638f7dd7b7590903ddbce764c4c26945cd65ea474344274bc2a1bc
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -41,4 +51,4 @@ entries:
     urls:
     - springboot-example-project-0.2.0.tgz
     version: 0.2.0
-generated: "2022-02-18T16:45:14.621896041Z"
+generated: "2022-02-18T16:48:07.131654531Z"
