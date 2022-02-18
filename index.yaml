@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   springboot-example-project:
   - apiVersion: v1
+    appVersion: 0.3.3
+    created: "2022-02-18T15:18:21.924148998Z"
+    description: A Helm chart for Kubernetes
+    digest: 641564dfb79df5ed604e33007f6d72429a63366ab1e631c83cbb7406ce3ab6e9
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: springboot-example-project
+    urls:
+    - springboot-example-project-0.3.3.tgz
+    version: 0.3.3
+  - apiVersion: v1
     appVersion: 0.3.0
-    created: "2022-02-18T15:11:08.937897514Z"
+    created: "2022-02-18T15:18:21.922869613Z"
     description: A Helm chart for Kubernetes
     digest: fcf29d3a9db827e832abb921dbb4c4648bdf0a495f004cda92b75a8a3e641b9f
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -13,7 +23,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.2.0
-    created: "2022-02-18T15:11:08.93349113Z"
+    created: "2022-02-18T15:18:21.920874059Z"
     description: A Helm chart for Kubernetes
     digest: 3fe46e548d638f7dd7b7590903ddbce764c4c26945cd65ea474344274bc2a1bc
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -21,4 +31,4 @@ entries:
     urls:
     - springboot-example-project-0.2.0.tgz
     version: 0.2.0
-generated: "2022-02-18T15:11:08.929927153Z"
+generated: "2022-02-18T15:18:21.919495257Z"
